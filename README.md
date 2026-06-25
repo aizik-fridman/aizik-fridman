@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Observability, PowerShell, and building solid IT infrastructure**
 
-- 📫Get In Touch **aizik138@gmail.com**
+- 📫Visit my Protfilio **https://itzik-friedman.vercel.app**
 
 - ⚡ **Fun fact: I run on perfectly dialed-in espresso, minimalist dark mode UIs, and manual photography.**
 
